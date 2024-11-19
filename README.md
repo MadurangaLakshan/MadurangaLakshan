@@ -35,17 +35,17 @@
 | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MadurangaLakshan&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadurangaLakshan&layout=compact&theme=tokyonight) |  
 |---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|  
 
----
+<!--
 
 ## 🌐 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/madurangalakshan))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/madurangalakshan) 
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:maduranga1234lakshan@gmail.com)  
-
+-->
 ---
-<!--  
-## 🎨 Widgets and Fun  
-- 🌟 Dynamic Quote:  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-- 🎵 Now Playing on Spotify:  
-  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)  
+
+
+## 🌀 A Thought to Ponder
+
+> “An idiot admires complexity, a genius admires simplicity.”  
+> — *Terry A. Davis*
