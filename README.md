@@ -28,23 +28,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)  
 
 
----
-
-## 📈 GitHub Stats  
-
-| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MadurangaLakshan&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadurangaLakshan&layout=compact&theme=tokyonight) |  
-|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|  
-
-<!--
-
-## 🌐 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/madurangalakshan) 
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:maduranga1234lakshan@gmail.com)  
--->
----
-
-
-
 ## 🌀 A Thought to Ponder
 
 > “An idiot admires complexity, a genius admires simplicity.”  
