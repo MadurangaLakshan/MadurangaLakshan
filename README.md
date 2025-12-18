@@ -1,7 +1,7 @@
 # Hi there, I'm Maduranga! 👋
 
 
-![Laptop Coding GIF](https://media.tenor.com/RurUH7TetEIAAAAj/modular-festival-modular.gif) ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full-stack+Developer;Tech+Enthusiast;Lifelong+Learner)  
+![Laptop Coding GIF](https://tenor.com/bfib3.gif)  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full-stack+Developer;Tech+Enthusiast;Lifelong+Learner)  
 
 ---
 
